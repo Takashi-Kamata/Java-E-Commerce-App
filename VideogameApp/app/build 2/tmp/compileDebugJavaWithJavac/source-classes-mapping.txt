@@ -1,0 +1,53 @@
+com/example/videogameapp/ListAdapter.java
+ com.example.videogameapp.ListAdapter
+ com.example.videogameapp.ListAdapter$ItemClickListener
+ com.example.videogameapp.ListAdapter$ViewHolder
+com/example/videogameapp/CarouselAdapter.java
+ com.example.videogameapp.CarouselAdapter
+ com.example.videogameapp.CarouselAdapter$ItemClickListener
+ com.example.videogameapp.CarouselAdapter$ViewHolder
+com/example/videogameapp/BuildConfig.java
+ com.example.videogameapp.BuildConfig
+com/example/videogameapp/DataProvider.java
+ com.example.videogameapp.DataProvider
+com/example/videogameapp/Videogame.java
+ com.example.videogameapp.Videogame
+ com.example.videogameapp.Videogame$CustomComparatorName
+ com.example.videogameapp.Videogame$CustomComparatorPrice
+ com.example.videogameapp.Videogame$CustomComparatorRating
+ com.example.videogameapp.Videogame$CustomComparatorView
+com/example/videogameapp/TopPicksAdapter.java
+ com.example.videogameapp.TopPicksAdapter
+ com.example.videogameapp.TopPicksAdapter$ItemClickListener
+ com.example.videogameapp.TopPicksAdapter$TopPicksViewHolder
+com/example/videogameapp/DetailsActivity.java
+ com.example.videogameapp.DetailsActivity
+com/example/videogameapp/MainActivity.java
+ com.example.videogameapp.MainActivity
+ com.example.videogameapp.MainActivity$1
+ com.example.videogameapp.MainActivity$2
+ com.example.videogameapp.MainActivity$3
+ com.example.videogameapp.MainActivity$4
+ com.example.videogameapp.MainActivity$5
+ com.example.videogameapp.MainActivity$6
+ com.example.videogameapp.MainActivity$7
+com/example/videogameapp/ListActivity.java
+ com.example.videogameapp.ListActivity
+com/example/videogameapp/SearchActivity.java
+ com.example.videogameapp.SearchActivity
+com/example/videogameapp/FilterActivity.java
+ com.example.videogameapp.FilterActivity
+ com.example.videogameapp.FilterActivity$1
+ com.example.videogameapp.FilterActivity$10
+ com.example.videogameapp.FilterActivity$11
+ com.example.videogameapp.FilterActivity$12
+ com.example.videogameapp.FilterActivity$13
+ com.example.videogameapp.FilterActivity$14
+ com.example.videogameapp.FilterActivity$2
+ com.example.videogameapp.FilterActivity$3
+ com.example.videogameapp.FilterActivity$4
+ com.example.videogameapp.FilterActivity$5
+ com.example.videogameapp.FilterActivity$6
+ com.example.videogameapp.FilterActivity$7
+ com.example.videogameapp.FilterActivity$8
+ com.example.videogameapp.FilterActivity$9

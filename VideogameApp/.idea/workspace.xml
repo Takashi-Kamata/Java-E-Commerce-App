@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33fcbb8e-753d-4a44-b49f-e8146014dda0" name="Default Changelist" comment="Search text fix">
+      <change afterPath="$PROJECT_DIR$/app/build 2/intermediates/dex/debug/mergeExtDexDebug/.classes.dex.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build 2/intermediates/processed_res/debug/out/.resources-debug.ap_.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build 2/intermediates/res/merged/debug/.drawable_borderlands3image1.jpg.flat.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build 2/intermediates/res/merged/debug/.drawable_fallout4image1.png.flat.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build 2/intermediates/res/merged/debug/.drawable_godofwarimage1.png.flat.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build 2/intermediates/res/merged/debug/.drawable_stardewvalleyimage2.jpg.flat.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build 2/outputs/apk/debug/.app-debug.apk.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/.borderlands3image1.jpg.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/.fallout4image1.png.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/.godofwarimage1.png.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/.stardewvalleyimage2.jpg.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/.theouterworldsimage3.png.icloud" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build 2/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build 2/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build 2/intermediates/res/merged/debug/drawable_borderlands3image1.jpg.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build 2/intermediates/res/merged/debug/drawable_fallout4image1.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build 2/intermediates/res/merged/debug/drawable_godofwarimage1.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build 2/intermediates/res/merged/debug/drawable_stardewvalleyimage2.jpg.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build 2/outputs/apk/debug/app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/borderlands3image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/fallout4image1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/godofwarimage1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/stardewvalleyimage2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/theouterworldsimage3.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1t3DaBZOvmJokp1z4G9A2M88Pit" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3a_API_30" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-06-06T07:34:27.637Z" />
+    <property name="ResourceManagerPrefKey.ResourceType" value="LAYOUT" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/layout" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1621989158852" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Videogame_App.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33fcbb8e-753d-4a44-b49f-e8146014dda0" name="Default Changelist" comment="" />
+      <created>1621988939568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621988939568</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Activity transition from top picks into details activity.">
+      <created>1622096893206</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622096893206</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Genres">
+      <created>1622103795577</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622103795577</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Genres">
+      <created>1622104093665</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622104093665</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Genres improvement">
+      <created>1622105472710</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622105472710</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Genre list with recycler view">
+      <created>1622107497114</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622107497114</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Genre list with recycler view">
+      <created>1622159951398</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622159951399</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Carousel image">
+      <created>1622249030278</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622249030278</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Session Parse">
+      <created>1622249104385</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1622249104385</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Search View and Filter View GUI completed">
+      <created>1622254536560</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1622254536560</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Rating star config">
+      <created>1622255162855</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1622255162855</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Carousel first position fix">
+      <created>1622255975923</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1622255975923</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Filter Button highlight selection and rating selection.&#10;Save and Cancel back buttons.">
+      <created>1622258622386</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1622258622390</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Layout weight change for filter and search views">
+      <created>1622258900322</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1622258900322</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Genre Filter and Search Filter using lambda function">
+      <created>1622264981265</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1622264981265</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Details view from videogame object">
+      <created>1622274209918</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1622274209918</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Top picks fix">
+      <created>1622275020441</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1622275020441</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Filter with condition and genre">
+      <created>1622277626854</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1622277626854</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Search activity to details view">
+      <created>1622277930131</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1622277930131</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Filter">
+      <created>1622282436443</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1622282436443</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Filter function working">
+      <created>1622282488708</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1622282488708</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Item View added price and rating">
+      <created>1622285932834</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1622285932834</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Sorting works">
+      <created>1622287035985</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1622287035985</updated>
+    </task>
+    <task id="LOCAL-00023" summary="New Banner">
+      <created>1622290223014</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1622290223014</updated>
+    </task>
+    <task id="LOCAL-00024" summary="New Banner fix">
+      <created>1622290315125</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1622290315125</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Reset filter setting fix">
+      <created>1622290581555</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1622290581555</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Top three picked with view count">
+      <created>1622428440581</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1622428440581</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Added onResume() for refreshing the top picks everytime the the user come back to the main screen.">
+      <created>1622428845493</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1622428845493</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Top picks fix">
+      <created>1622438332748</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1622438332748</updated>
+    </task>
+    <task id="LOCAL-00029" summary="New and Old buttons">
+      <created>1622513041545</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1622513041545</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Animation when transitioning">
+      <created>1622515916520</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1622515916520</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Changed colour">
+      <created>1622520010116</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1622520010116</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Descriptions added">
+      <created>1622527407067</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1622527407067</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Search text fix">
+      <created>1622603433039</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1622603433039</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Session Parse" />
+    <MESSAGE value="Search View and Filter View GUI completed" />
+    <MESSAGE value="Rating star config" />
+    <MESSAGE value="Carousel first position fix" />
+    <MESSAGE value="Filter Button highlight selection and rating selection.&#10;Save and Cancel back buttons." />
+    <MESSAGE value="Layout weight change for filter and search views" />
+    <MESSAGE value="Genre Filter and Search Filter using lambda function" />
+    <MESSAGE value="Details view from videogame object" />
+    <MESSAGE value="Filter with condition and genre" />
+    <MESSAGE value="Search activity to details view" />
+    <MESSAGE value="Filter" />
+    <MESSAGE value="Filter function working" />
+    <MESSAGE value="Item View added price and rating" />
+    <MESSAGE value="Sorting works" />
+    <MESSAGE value="New Banner" />
+    <MESSAGE value="New Banner fix" />
+    <MESSAGE value="Reset filter setting fix" />
+    <MESSAGE value="Top three picked with view count" />
+    <MESSAGE value="Added onResume() for refreshing the top picks everytime the the user come back to the main screen." />
+    <MESSAGE value="Top picks fix" />
+    <MESSAGE value="New and Old buttons" />
+    <MESSAGE value="Animation when transitioning" />
+    <MESSAGE value="Changed colour" />
+    <MESSAGE value="Descriptions added" />
+    <MESSAGE value="Search text fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Search text fix" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="153" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621989038324">
+      <screen x="0" y="25" width="1680" height="938" />
+    </state>
+    <state x="304" y="153" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.938@0.25.1680.938" timestamp="1621989038324" />
+    <state x="653" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1622249945357">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1622249945357" />
+    <state x="578" y="276" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1622427957853">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="276" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1622427957853" />
+    <state x="100" y="125" width="1480" height="738" key="AVDManager" timestamp="1624347142845">
+      <screen x="0" y="25" width="1680" height="938" />
+    </state>
+    <state x="100" y="112" width="1480" height="827" key="AVDManager/0.0.1680.1050@0.0.1680.1050" timestamp="1622604522230" />
+    <state x="100" y="125" width="1480" height="738" key="AVDManager/0.25.1680.938@0.25.1680.938" timestamp="1624347142845" />
+    <state x="379" y="212" width="903" height="662" key="AVDManager/0.25.1680.941@0.25.1680.941" timestamp="1622964570695" />
+    <state x="379" y="212" width="903" height="662" key="AVDManager/0.25.1680.944@0.25.1680.944" timestamp="1622965159942" />
+    <state x="428" y="284" key="AndroidCreateResourceFileDialog" timestamp="1622520154065">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="428" y="284" key="AndroidCreateResourceFileDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1622520154065" />
+    <state width="818" height="159" key="GridCell.Tab.0.bottom" timestamp="1622965382645">
+      <screen x="0" y="25" width="1680" height="944" />
+    </state>
+    <state width="1636" height="190" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1622527365609" />
+    <state width="1636" height="295" key="GridCell.Tab.0.bottom/0.25.1680.938@0.25.1680.938" timestamp="1622248891625" />
+    <state width="818" height="249" key="GridCell.Tab.0.bottom/0.25.1680.941@0.25.1680.941" timestamp="1622964866665" />
+    <state width="818" height="159" key="GridCell.Tab.0.bottom/0.25.1680.944@0.25.1680.944" timestamp="1622965382645" />
+    <state width="1636" height="190" key="GridCell.Tab.0.bottom/0.25.1680.946@0.25.1680.946" timestamp="1622427986371" />
+    <state width="818" height="159" key="GridCell.Tab.0.center" timestamp="1622965382645">
+      <screen x="0" y="25" width="1680" height="944" />
+    </state>
+    <state width="1636" height="190" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1622527365609" />
+    <state width="1636" height="295" key="GridCell.Tab.0.center/0.25.1680.938@0.25.1680.938" timestamp="1622248891623" />
+    <state width="818" height="249" key="GridCell.Tab.0.center/0.25.1680.941@0.25.1680.941" timestamp="1622964866665" />
+    <state width="818" height="159" key="GridCell.Tab.0.center/0.25.1680.944@0.25.1680.944" timestamp="1622965382645" />
+    <state width="1636" height="190" key="GridCell.Tab.0.center/0.25.1680.946@0.25.1680.946" timestamp="1622427986370" />
+    <state width="818" height="159" key="GridCell.Tab.0.left" timestamp="1622965382644">
+      <screen x="0" y="25" width="1680" height="944" />
+    </state>
+    <state width="1636" height="190" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1622527365608" />
+    <state width="1636" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.25.1680.938" timestamp="1622248891621" />
+    <state width="1636" height="295" key="GridCell.Tab.0.left/0.25.1680.938@0.25.1680.938" timestamp="1622248840655" />
+    <state width="818" height="249" key="GridCell.Tab.0.left/0.25.1680.941@0.25.1680.941" timestamp="1622964866664" />
+    <state width="818" height="159" key="GridCell.Tab.0.left/0.25.1680.944@0.25.1680.944" timestamp="1622965382644" />
+    <state width="1636" height="190" key="GridCell.Tab.0.left/0.25.1680.946@0.25.1680.946" timestamp="1622427986369" />
+    <state width="818" height="159" key="GridCell.Tab.0.right" timestamp="1622965382645">
+      <screen x="0" y="25" width="1680" height="944" />
+    </state>
+    <state width="1636" height="190" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1622527365609" />
+    <state width="1636" height="295" key="GridCell.Tab.0.right/0.25.1680.938@0.25.1680.938" timestamp="1622248891624" />
+    <state width="818" height="249" key="GridCell.Tab.0.right/0.25.1680.941@0.25.1680.941" timestamp="1622964866665" />
+    <state width="818" height="159" key="GridCell.Tab.0.right/0.25.1680.944@0.25.1680.944" timestamp="1622965382645" />
+    <state width="1636" height="190" key="GridCell.Tab.0.right/0.25.1680.946@0.25.1680.946" timestamp="1622427986370" />
+    <state width="818" height="159" key="GridCell.Tab.1.bottom" timestamp="1622965382647">
+      <screen x="0" y="25" width="1680" height="944" />
+    </state>
+    <state width="1636" height="190" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1622527365611" />
+    <state width="1636" height="295" key="GridCell.Tab.1.bottom/0.25.1680.938@0.25.1680.938" timestamp="1622248891627" />
+    <state width="1636" height="190" key="GridCell.Tab.1.bottom/0.25.1680.941@0.25.1680.941" timestamp="1622428779266" />
+    <state width="818" height="159" key="GridCell.Tab.1.bottom/0.25.1680.944@0.25.1680.944" timestamp="1622965382647" />
+    <state width="1636" height="190" key="GridCell.Tab.1.bottom/0.25.1680.946@0.25.1680.946" timestamp="1622427986373" />
+    <state width="818" height="159" key="GridCell.Tab.1.center" timestamp="1622965382646">
+      <screen x="0" y="25" width="1680" height="944" />
+    </state>
+    <state width="1636" height="190" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1622527365610" />
+    <state width="1636" height="295" key="GridCell.Tab.1.center/0.25.1680.938@0.25.1680.938" timestamp="1622248891626" />
+    <state width="1636" height="190" key="GridCell.Tab.1.center/0.25.1680.941@0.25.1680.941" timestamp="1622428779265" />
+    <state width="818" height="159" key="GridCell.Tab.1.center/0.25.1680.944@0.25.1680.944" timestamp="1622965382646" />
+    <state width="1636" height="190" key="GridCell.Tab.1.center/0.25.1680.946@0.25.1680.946" timestamp="1622427986372" />
+    <state width="818" height="159" key="GridCell.Tab.1.left" timestamp="1622965382646">
+      <screen x="0" y="25" width="1680" height="944" />
+    </state>
+    <state width="1636" height="190" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1622527365610" />
+    <state width="1636" height="295" key="GridCell.Tab.1.left/0.25.1680.938@0.25.1680.938" timestamp="1622248891625" />
+    <state width="1636" height="190" key="GridCell.Tab.1.left/0.25.1680.941@0.25.1680.941" timestamp="1622428779264" />
+    <state width="818" height="159" key="GridCell.Tab.1.left/0.25.1680.944@0.25.1680.944" timestamp="1622965382646" />
+    <state width="1636" height="190" key="GridCell.Tab.1.left/0.25.1680.946@0.25.1680.946" timestamp="1622427986371" />
+    <state width="818" height="159" key="GridCell.Tab.1.right" timestamp="1622965382647">
+      <screen x="0" y="25" width="1680" height="944" />
+    </state>
+    <state width="1636" height="190" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1622527365610" />
+    <state width="1636" height="295" key="GridCell.Tab.1.right/0.25.1680.938@0.25.1680.938" timestamp="1622248891626" />
+    <state width="1636" height="190" key="GridCell.Tab.1.right/0.25.1680.941@0.25.1680.941" timestamp="1622428779265" />
+    <state width="818" height="159" key="GridCell.Tab.1.right/0.25.1680.944@0.25.1680.944" timestamp="1622965382647" />
+    <state width="1636" height="190" key="GridCell.Tab.1.right/0.25.1680.946@0.25.1680.946" timestamp="1622427986372" />
+    <state x="341" y="130" key="SettingsEditor" timestamp="1624347193249">
+      <screen x="0" y="25" width="1680" height="938" />
+    </state>
+    <state x="341" y="130" key="SettingsEditor/0.25.1680.938@0.25.1680.938" timestamp="1624347193249" />
+    <state x="341" y="130" key="SettingsEditor/0.25.1680.941@0.25.1680.941" timestamp="1622964849645" />
+    <state x="498" y="143" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1622246525053">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="498" y="143" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1622246525053" />
+    <state x="623" y="405" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622965389016">
+      <screen x="0" y="25" width="1680" height="944" />
+    </state>
+    <state x="623" y="423" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1622285908934" />
+    <state x="623" y="405" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1680.944@0.25.1680.944" timestamp="1622965389016" />
+    <state x="397" y="258" width="885" height="623" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1622108651358">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="397" y="258" width="885" height="623" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1680.1050@0.0.1680.1050" timestamp="1622108651358" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1622099325315">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1622099325315" />
+    <state x="542" y="305" key="refactoring.ChangeSignatureDialog" timestamp="1622518130777">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="542" y="305" key="refactoring.ChangeSignatureDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1622518130777" />
+    <state x="505" y="248" key="run.anything.popup" timestamp="1622262826352">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="248" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1622262826352" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1622522329417">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1622522329417" />
+  </component>
+</project>

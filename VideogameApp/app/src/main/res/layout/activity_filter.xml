@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_background"
+    tools:context=".FilterActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20sp"
+        android:paddingRight="20sp"
+        android:paddingBottom="20sp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/filter_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20sp"
+            android:layout_gravity="start"
+            app:cornerRadius="4sp"
+            android:backgroundTint="@color/crane_red"
+            android:text="Back"/>
+
+        <TextView
+            android:id="@+id/sort_type"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sort Type"
+            android:textColor="@color/white"
+            android:layout_marginTop="20sp"
+            android:textSize="20sp" />
+
+        <Spinner
+            android:id="@+id/sort_spinner"
+            android:layout_width="wrap_content"
+            android:background="@color/crane_red"
+            android:popupBackground="@color/crane_red"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/condition"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Condition"
+                android:textColor="@color/white"
+                android:layout_marginTop="20sp"
+                android:textSize="20sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/condition_all"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:enabled="true"
+                    android:layout_margin="8sp"
+                    android:textSize="16sp"
+                    android:text="ALL"
+                    android:backgroundTint="@color/crane_red"
+                    app:cornerRadius="4sp"/>
+
+                <Button
+                    android:id="@+id/condition_new"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_margin="8sp"
+                    android:textSize="16sp"
+                    android:text="NEW"
+                    android:backgroundTint="@color/crane_red"
+                    app:cornerRadius="4sp"/>
+
+                <Button
+                    android:id="@+id/condition_pre_owned"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_margin="8sp"
+                    android:textSize="16sp"
+                    android:text="Pre-Owned"
+                    android:backgroundTint="@color/crane_red"
+                    app:cornerRadius="4sp"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/white"
+            android:layout_marginTop="20sp"
+            android:text="Genre"/>
+
+        <Button
+            android:id="@+id/genre_all"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:text="All"
+            android:backgroundTint="@color/crane_red"/>
+        <Button
+            android:id="@+id/genre_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:text="RPGs"
+            android:backgroundTint="@color/crane_red"/>
+        <Button
+            android:id="@+id/genre_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:text="Action"
+            android:backgroundTint="@color/crane_red"/>
+        <Button
+            android:id="@+id/genre_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:text="Shooter"
+            android:backgroundTint="@color/crane_red"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/rating"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Rating"
+                android:layout_marginTop="20sp"
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/rating_max_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="16sp"
+                    android:textColor="@color/white"
+                    android:text="Max" />
+
+                <RatingBar
+                    android:id="@+id/rating_max"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:isIndicator="false"
+                    android:numStars="5"
+                    android:rating="5"
+                    android:progressTint="@color/grey_400"
+                    android:stepSize="0.5" />
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/rating_min_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="16sp"
+                    android:textColor="@color/white"
+                    android:layout_weight="1"
+                    android:text="Min" />
+
+                <RatingBar
+                    android:id="@+id/rating_min"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:isIndicator="false"
+                    android:progressTint="@color/grey_400"
+                    android:numStars="5"
+                    android:stepSize="0.5" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20sp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Price"
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/price_max"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="@color/white"
+                    android:text="Max" />
+
+                <EditText
+                    android:id="@+id/pricenum_max"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:hint="$200"
+                    android:textColor="@color/grey_400"
+                    android:textColorHint="@color/grey_400"
+                    android:inputType="numberDecimal|numberSigned" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/price_min"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="@color/white"
+                    android:text="Min" />
+
+                <EditText
+                    android:id="@+id/pricenum_min"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:textColorHint="@color/grey_400"
+                    android:textColor="@color/grey_400"
+                    android:hint="$0"
+                    android:inputType="numberDecimal|numberSigned" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/filter_execute"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20sp"
+            android:layout_gravity="end"
+            android:text="Filter"
+            android:backgroundTint="@color/crane_red"
+            app:cornerRadius="4sp"/>
+    </LinearLayout>
+
+</ScrollView>

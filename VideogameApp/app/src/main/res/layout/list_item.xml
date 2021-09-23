@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="10sp"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="150sp"
+        app:cardCornerRadius="5dp"
+        android:layout_margin="4dp"
+        app:cardElevation="4dp"
+        android:backgroundTint="@color/crane_red"
+        app:cardMaxElevation="6dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dp"
+            tools:ignore="MissingConstraints">
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/gameIcon_row"
+                    android:layout_width="90dp"
+                    android:layout_height="120dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:scaleType="centerCrop"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginBottom="10dp"
+                    tools:srcCompat="@tools:sample/avatars"
+                    android:transitionName="details_cover"/>
+
+                <ImageView
+                    android:id="@+id/banner_row"
+                    android:visibility="invisible"
+                    android:layout_width="90dp"
+                    android:layout_height="120dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:scaleType="centerCrop"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:src="@drawable/new_banner" />
+            </FrameLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/gameName_row"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:textStyle="bold"
+                    android:background="@color/crane_red"
+                    android:textColor="@color/white"
+                    android:gravity="center"
+                    android:text="Test"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/gamePrice_row"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:textColor="@color/grey_400"
+                    android:gravity="center"
+                    android:textStyle="italic"
+                    android:text="$$$$"
+                    android:textSize="25sp"/>
+
+                <RatingBar
+                    android:id="@+id/ratingBar_row"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:progressTint="@color/white"
+                    android:layout_marginTop="10dp"
+                    style="?android:attr/ratingBarStyleSmall"
+                    android:numStars="5"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

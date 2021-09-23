@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="4dp"
+    android:maxWidth="200sp"
+    android:maxHeight="100sp"
+    android:orientation="vertical"
+    android:layout_margin="4sp"
+    >
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/top_pick_image"
+            android:layout_width="200sp"
+            android:scaleType="centerCrop"
+            android:layout_height="100sp"
+            android:src="@drawable/skyrimcover"
+            android:transitionName="details_cover"/>
+
+        <TextView
+            android:id="@+id/top_picks_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:paddingLeft="4sp"
+            android:paddingRight="4sp"
+            android:text="Name"
+            android:background="@color/crane_red"
+            android:textColor="@color/white" />
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
